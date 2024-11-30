@@ -1,0 +1,18 @@
+# Virtual Environment
+crypto_research_env/
+*.venv
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables
+.env
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+*.swp
