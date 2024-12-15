@@ -1,8 +1,8 @@
 import os
 import requests
 
-##get historica price data of a token
-url = "https://min-api.cryptocompare.com/data/v2/histoday?fsym=SHIB&tsym=USD&limit=5"
+##get daily historica price data for the prev 2000 days of a token
+url = "https://min-api.cryptocompare.com/data/v2/histoday?fsym=BTC&tsym=USD&limit=2000"
 
 response = requests.get(url)
 
