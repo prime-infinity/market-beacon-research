@@ -89,7 +89,7 @@ def main():
             all_historical_data.extend(historical_data)
             
             # Add a small delay to respect API rate limits
-            time.sleep(0.5)
+            time.sleep(2.5)
         except Exception as e:
             print(f"Error processing {coin_symbol}: {e}")
             
