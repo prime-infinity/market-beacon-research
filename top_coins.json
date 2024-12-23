@@ -1,0 +1,402 @@
+[
+  {
+    "Name": "BTC",
+    "MaxSupply": 20999999.9769
+  },
+  {
+    "Name": "ETH",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "XRP",
+    "MaxSupply": 100000000000
+  },
+  {
+    "Name": "USDT",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "SOL",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "BNB",
+    "MaxSupply": 100000000
+  },
+  {
+    "Name": "DOGE",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "ADA",
+    "MaxSupply": 45000000000
+  },
+  {
+    "Name": "SUI",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "USDC",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "STETH",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "CULT",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "TON",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "WLD",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "LINK",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "TRX",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "AVAX",
+    "MaxSupply": 720000000
+  },
+  {
+    "Name": "RYO",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "XLM",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "ONDO",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "ENA",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "UNI",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "SHIB",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "APT",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "HBAR",
+    "MaxSupply": 50000000000
+  },
+  {
+    "Name": "WBTC",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "DOT",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "JUP",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "OP",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "BCH",
+    "MaxSupply": 20999999.9769
+  },
+  {
+    "Name": "ARB",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "PEPE",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "LTC",
+    "MaxSupply": 84000000
+  },
+  {
+    "Name": "LEO",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "WBT",
+    "MaxSupply": 400000000
+  },
+  {
+    "Name": "EIGEN",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "NEAR",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "MANTLE",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "TIA",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "WEETH",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "OM",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "ICP",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "ZRO",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "STRK",
+    "MaxSupply": 10000000000
+  },
+  {
+    "Name": "POL",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "BGB",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "MATIC",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "AAVE",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "USDE",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "CRO",
+    "MaxSupply": 30000000000
+  },
+  {
+    "Name": "SEI",
+    "MaxSupply": 10000000000
+  },
+  {
+    "Name": "VET",
+    "MaxSupply": 86712634466
+  },
+  {
+    "Name": "ETC",
+    "MaxSupply": 210700000
+  },
+  {
+    "Name": "RNDR",
+    "MaxSupply": 536870912
+  },
+  {
+    "Name": "FET",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "PYTH",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "TAO",
+    "MaxSupply": 21000000
+  },
+  {
+    "Name": "FTM",
+    "MaxSupply": 3175000000
+  },
+  {
+    "Name": "ENS",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "ALGO",
+    "MaxSupply": 10000000000
+  },
+  {
+    "Name": "FIL",
+    "MaxSupply": 2000000000
+  },
+  {
+    "Name": "GT",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "KAS",
+    "MaxSupply": 28704026601
+  },
+  {
+    "Name": "ATOM",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "VINCI",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "RENDER",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "STX",
+    "MaxSupply": 1818000000
+  },
+  {
+    "Name": "IMX",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "JTO",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "GRASS",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "W",
+    "MaxSupply": 10000000000
+  },
+  {
+    "Name": "DAI",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "ATH",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "BONK",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "IO",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "XDC",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "WBETH",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "FLR",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "GRT",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "RAY",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "CORE",
+    "MaxSupply": 2100000000
+  },
+  {
+    "Name": "AERO",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "WIF",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "INJ",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "ZK",
+    "MaxSupply": 21000000000
+  },
+  {
+    "Name": "MORPHO",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "ETHFI",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "THETA",
+    "MaxSupply": 1000000000
+  },
+  {
+    "Name": "RUNE",
+    "MaxSupply": 500000000
+  },
+  {
+    "Name": "CRV",
+    "MaxSupply": 3030303030
+  },
+  {
+    "Name": "HTX",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "KMNO",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "LDO",
+    "MaxSupply": 1000000000
+  },
+  {
+    "Name": "JASMY",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "EOS",
+    "MaxSupply": 2100000000
+  },
+  {
+    "Name": "SAND",
+    "MaxSupply": 3000000000
+  },
+  {
+    "Name": "FLOKI",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "SUPER",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "SAGA",
+    "MaxSupply": -1
+  },
+  {
+    "Name": "RONIN",
+    "MaxSupply": -1
+  }
+]
